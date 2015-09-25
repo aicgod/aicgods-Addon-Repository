@@ -123,19 +123,19 @@
   </extension>
 </addon>
 
-    <addon id="repository.aicgod" name="Aicgods Addon Repository" version="0.1.0" provider-name="aicgod">
+    <addon id="repository.aicgod" name="=AICGODs Addon Repository" version="0.1.1" provider-name="AICGOD">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
-        <extension point="xbmc.addon.repository" name="Aicgods Addon Repository">
+        <extension point="xbmc.addon.repository" name="=AICGODs Addon Repository">
             <info compressed="false">https://raw.githubusercontent.com/aicgod/aicgods-Addon-Repository/_repo/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/aicgod/aicgods-Addon-Repository/_repo/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/aicgod/aicgods-Addon-Repository/_repo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>Aicgods Addon Repository</summary>
-            <description>Aicgods Addon Repository</description>
+            <summary>AICGODs Addon Repository</summary>
+            <description>AICGODs Addon Repository</description>
             <platform>all</platform>
     </extension>
 </addon>
